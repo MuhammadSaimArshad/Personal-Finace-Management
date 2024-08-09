@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "280004171812",
+    "project_id": "parcel-pal-156b2",
+    "storage_bucket": "parcel-pal-156b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280004171812:android:a4eea551a308589d26e0b1",
+        "android_client_info": {
+          "package_name": "com.example.parcal_pal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV80ztRpmz5G5aSKueUupbjzW_F-3sRO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280004171812:android:c3d583560e439aee26e0b1",
+        "android_client_info": {
+          "package_name": "com.example.personal_finace_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV80ztRpmz5G5aSKueUupbjzW_F-3sRO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
